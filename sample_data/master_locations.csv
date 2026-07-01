@@ -1,0 +1,6 @@
+Warehouse_ID,Item_SKU,Item_Name,Location
+WH01,SKU001,Organic Bananas,Aisle_A-Bay_04-Shelf_2
+WH01,SKU002,Farm Eggs (12),Aisle_A-Bay_04-Shelf_10
+WH01,SKU003,Whole Milk 1L,Aisle_A-Bay_01-Shelf_1
+WH01,SKU004,Baby Spinach,Aisle_B-Bay_02-Shelf_3
+WH01,SKU005,Tomatoes 1kg,Aisle_A-Bay_04-Shelf_1
