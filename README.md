@@ -10,7 +10,7 @@ FastAPI · SQLAlchemy 2.0 · SQLite · JWT (access-only).
 ## Quick start
 
 ```bash
-python -m venv .venv && source .venv/bin/activate
+python3.12 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
 cp .env.example .env          # optional; sensible defaults ship in code
